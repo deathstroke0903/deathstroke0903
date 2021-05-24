@@ -37,6 +37,6 @@
 ---
 
 [instagram]: https://www.instagram.com/ryuk__yagami/
-[telegram]: https://t.me/ryukyagmi
+[telegram]: https://whocares_tho
 [gmail]: https://mail.google.com/mail/u/0/aksanshuashish@gmail.com
 
